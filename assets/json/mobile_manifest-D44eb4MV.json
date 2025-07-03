@@ -1,0 +1,20 @@
+{
+  "name": "XMINDCLUB",
+  "short_name": "XMINDCLUB",
+  "icons": [
+    {
+      "src": "/static/mobile_images/mobile_phone_home.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/static/mobile_images/mobile_phone_home.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#f5f5f5"
+}

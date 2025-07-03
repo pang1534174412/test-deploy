@@ -1,0 +1,2 @@
+import{_ as l}from"./vue-element-plus-x-DGKSjYfN.js";function c(l,c){var e,t,a;l.accDescr&&(null==(e=c.setAccDescription)||e.call(c,l.accDescr)),l.accTitle&&(null==(t=c.setAccTitle)||t.call(c,l.accTitle)),l.title&&(null==(a=c.setDiagramTitle)||a.call(c,l.title))}l(c,"populateCommonDb");export{c as p};
+//# sourceMappingURL=chunk-4BMEZGHF-Byc923bM-l9KNRiqJ.js.map
