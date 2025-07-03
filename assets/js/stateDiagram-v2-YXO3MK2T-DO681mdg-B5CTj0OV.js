@@ -1,0 +1,2 @@
+import{s as r,b as e,a as s,S as t}from"./chunk-AEK57VVT-DwpAGejK-CiOi3LOI.js";import{_ as a}from"./vue-element-plus-x-C3TzBEXs.js";import"./chunk-RZ5BOZE2-CECkVDFV-DdW7swis.js";import"./vue-vendor-BmHMP2lV.js";var o={parser:s,get db(){return new t(2)},renderer:e,styles:r,init:a((r=>{r.state||(r.state={}),r.state.arrowMarkerAbsolute=r.arrowMarkerAbsolute}),"init")};export{o as diagram};
+//# sourceMappingURL=stateDiagram-v2-YXO3MK2T-DO681mdg-B5CTj0OV.js.map
